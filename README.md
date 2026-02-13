@@ -5,6 +5,8 @@
 Este projeto consiste na réplica do menu de navegação e da seção principal (hero banner) do site da Microsoft.
 O objetivo foi reproduzir o layout com o máximo de precisão possível, praticando estruturação, estilização e organização de interface.
 
+Link do site: https://moiseslana.github.io/Microsoft_Menu/
+
 ## 🚀 O que foi desenvolvido
 
 🔹 Barra de navegação inspirada no site oficial
